@@ -1,0 +1,42 @@
+.nav-wrapper{
+    background-color: #6f4037;
+}
+.slider .indicators .indicator-item.active {
+    background: #6f4037;
+}
+.move{
+    margin-top:60px ;
+    margin-bottom:20px ;
+
+}
+.parallax-container{
+    min-height: 280px;
+    height: auto;
+}
+.icon-coffee{
+    color: #6f4037;
+    
+}
+
+.icon-coffee1{
+    color:white;
+   
+}
+
+
+.footer-one{
+    background-color: #462822;
+}
+
+.footer-two{
+    background-color: #462822;
+}
+
+@media (min-width: 992px) {
+    .nav-wrapper > a {
+      padding-left: 35px;
+    }
+.nav-wrapper > a {
+        text-decoration: none;
+        font-family: "Bree", Serif;
+}
